@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestConfiguration": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "test": "789"
+      }
+    }
+  }
+}
